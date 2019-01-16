@@ -46,5 +46,17 @@ namespace Fundamentals.Tests
             book = new GradeBook();
             book.Name = "A Gradebook";
         }
+
+        [Test()]
+        public void Test_String()
+        {
+            string name = "milind";
+
+            name.ToUpper();
+            var newName = name.ToUpper();
+
+            Assert.AreEqual("milind", name);
+            Assert.AreEqual("MILIND", newName);
+        }
     }
 }
