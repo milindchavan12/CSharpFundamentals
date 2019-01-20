@@ -13,3 +13,14 @@
       public decimal Amount { get; } = amount;
    }
 ```
+### Static types
+```csharp
+   using System.Console;
+   class Program
+   {
+      public static void Main()
+      {
+         Writeline("This is the example of Static Types");
+      }
+   }
+```
