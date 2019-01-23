@@ -73,3 +73,6 @@ To use the generic class
          return value;
      }
 ```
+- **Generic constraints**
+
+Constraints are like rules or instructions to define how to interact with a generic class or method. They can restrict the parameter that will be replaced with T to some certain type or class or have some properties, like to be new instance of class.
