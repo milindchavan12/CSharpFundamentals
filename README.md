@@ -29,4 +29,15 @@ Collection provides in-memory management of group of items.
 
 ```csharp
    string[] colorOptions = new stringp[4];
+   colorOptios[0] = "Red";
+   colorOptios[0] = "Green";
+   colorOptios[0] = "Blue";
+   colorOptios[0] = "Pink";
 ```
+
+With *Collection Initializer*
+
+```csharp
+   string[] colorOptions = { "Red", "Green", "Blue", "Pink" };
+```
+
