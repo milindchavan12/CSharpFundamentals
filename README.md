@@ -41,3 +41,5 @@ With *Collection Initializer*
    string[] colorOptions = { "Red", "Green", "Blue", "Pink" };
 ```
 
+### Generics:
+Generics are techniques of writing code without specifying data types.
