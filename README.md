@@ -79,6 +79,6 @@ Constraints are like rules or instructions to define how to interact with a gene
 
 Following are the constraint allowed:
 
-| Attempt | #1  | #2  |
-| :---:   | :-: | :-: |
+| Generic Constraint | Constrain **T** to |
+| :---:              | :-:                |
 | Seconds | 301 | 283 |
