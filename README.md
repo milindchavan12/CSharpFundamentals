@@ -40,7 +40,7 @@ With *Collection Initializer*
 ```
 
 ## Generics:
-Generics are techniques of writing code without specifying data types. Example of generic class:
+- Generics are techniques of writing code without specifying data types. Example of generic class:
 ```csharp
     public class OperationResult<TResult>
     {
@@ -63,4 +63,13 @@ To use the generic class
    var expected1 = new OperationResult<bool>(true, "Test");
    
    var expected2 = new OperationResult<decimal>(0m, "Test");
+```
+- Example of generic method:
+```csharp
+   public T RetrieveValue<T>(string sql, T defaultValue)
+     {
+         T value = defaultValue;
+
+         return value;
+     }
 ```
