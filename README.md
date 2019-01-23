@@ -79,6 +79,12 @@ Constraints are like rules or instructions to define how to interact with a gene
 
 Following are the constraint allowed:
 
-| Generic Constraint    | Constrain **T** to |
-| :---:                 | :-:                |
-| where **T** : struct  | Value type         |
+| Generic Constraint    | Constraint **T** to |
+| :---:                 | :-:                 |
+| where **T** : struct  | Value type          |
+| where **T** : class   | Reference type      |
+| where **T** : new()   | value with parameterless constructor |
+| where **T** : Car     | Be or derive from Car |
+| where **T** : ICar     | Be or implement ICar interface |
+
+
