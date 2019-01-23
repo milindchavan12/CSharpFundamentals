@@ -60,5 +60,7 @@ Generics are techniques of writing code without specifying data types. Example o
 ```
 To use the generic class 
 ```csharp
-   var expected = new OperationResult<bool>(true, "Test");
+   var expected1 = new OperationResult<bool>(true, "Test");
+   
+   var expected2 = new OperationResult<decimal>(0m, "Test");
 ```
