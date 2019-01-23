@@ -41,3 +41,20 @@ With *Collection Initializer*
 
 ## Generics:
 Generics are techniques of writing code without specifying data types.
+```csharp
+    public class OperationResult<TResult>
+    {
+        public OperationResult()
+        {
+        }
+
+        public OperationResult(TResult sucess, string message) : this()
+        {
+            this.Ressult = sucess;
+            this.Message = message;
+        }
+
+        public TResult Ressult { get; set; }
+        public string Message { get; set; }
+    }
+```
