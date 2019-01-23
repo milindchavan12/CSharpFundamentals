@@ -40,7 +40,7 @@ With *Collection Initializer*
 ```
 
 ## Generics:
-Generics are techniques of writing code without specifying data types.
+Generics are techniques of writing code without specifying data types. Example:
 ```csharp
     public class OperationResult<TResult>
     {
