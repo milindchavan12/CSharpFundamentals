@@ -1,0 +1,9 @@
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Biz/bin/Debug/Acme.Biz.dll
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Biz/bin/Debug/Acme.Biz.pdb
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Biz/bin/Debug/Acme.Common.dll
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Biz/bin/Debug/Acme.Common.pdb
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Biz/obj/Debug/Acme.Biz.csprojAssemblyReference.cache
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Biz/obj/Debug/Acme.Biz.csproj.CoreCompileInputs.cache
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Biz/obj/Debug/Acme.Biz.csproj.CopyComplete
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Biz/obj/Debug/Acme.Biz.dll
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Biz/obj/Debug/Acme.Biz.pdb

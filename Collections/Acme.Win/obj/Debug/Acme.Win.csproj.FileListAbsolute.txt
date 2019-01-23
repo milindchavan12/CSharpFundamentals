@@ -1,0 +1,15 @@
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Win/bin/Debug/Acme.Win.exe.config
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Win/bin/Debug/Acme.Win.exe
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Win/bin/Debug/Acme.Win.pdb
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Win/bin/Debug/Acme.Biz.dll
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Win/bin/Debug/Acme.Common.dll
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Win/bin/Debug/Acme.Biz.pdb
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Win/bin/Debug/Acme.Common.pdb
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Win/obj/Debug/Acme.Win.csprojAssemblyReference.cache
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Win/obj/Debug/Acme.Win.Properties.Resources.resources
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Win/obj/Debug/Acme.Win.VendorWin.resources
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Win/obj/Debug/Acme.Win.csproj.GenerateResource.cache
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Win/obj/Debug/Acme.Win.csproj.CoreCompileInputs.cache
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Win/obj/Debug/Acme.Win.csproj.CopyComplete
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Win/obj/Debug/Acme.Win.exe
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Win/obj/Debug/Acme.Win.pdb
