@@ -24,3 +24,6 @@ Abstract classes are the classes that can be instantiated and contain the abstra
 
 ### Collection:
 Collection provides in-memory management of group of items.
+
+**Arrays** : A fixed sized list of elements that can be accessed using a positional index number, starting from 0
+
