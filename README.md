@@ -78,6 +78,7 @@ To use the generic class
 Constraints are like rules or instructions to define how to interact with a generic class or method. They can restrict the parameter that will be replaced with T to some certain type or class or have some properties, like to be new instance of class.
 
 Following are the constraint allowed:
+
 | Attempt | #1  | #2  |
 | :---:   | :-: | :-: |
 | Seconds | 301 | 283 |
