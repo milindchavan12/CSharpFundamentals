@@ -19,3 +19,8 @@ Abstract classes are the classes that can be instantiated and contain the abstra
         public abstract void Open();
    }
 ```
+
+## Collections and Generics:
+
+### Collection:
+Collection provides in-memory management of group of items.
