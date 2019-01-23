@@ -20,9 +20,7 @@ Abstract classes are the classes that can be instantiated and contain the abstra
    }
 ```
 
-## Collections and Generics:
-
-### Collection:
+## Collections:
 Collection provides in-memory management of group of items.
 
 - **Arrays** : A fixed sized list of elements that can be accessed using a positional index number, starting from 0
@@ -41,5 +39,5 @@ With *Collection Initializer*
    string[] colorOptions = { "Red", "Green", "Blue", "Pink" };
 ```
 
-### Generics:
+## Generics:
 Generics are techniques of writing code without specifying data types.
