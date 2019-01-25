@@ -88,4 +88,9 @@ Following are the constraint allowed:
 | where **T** : ICar     | Be or implement ICar interface |
 
 ## Generic List:
-A strongly typed list of elements that is accessed using a positional index number.
+A strongly typed list of elements that is accessed using a positional index number. Generic list is the reference type.
+- Example of generic list:
+```csharp
+   List<string> mylist = new List<string>();
+```
+
