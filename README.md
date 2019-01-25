@@ -115,3 +115,6 @@ A strongly typed list of elements with keys and values.
       "AMS" : "Amsterdam"
    };
 ```
+
+## Generic Collection Interfaces:
+![img text](https://github.com/milindchavan12/CSharpFundamentals/blob/master/assets/generic-interface.png)
