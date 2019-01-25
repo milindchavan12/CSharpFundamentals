@@ -105,5 +105,13 @@ A strongly typed list of elements that is accessed using a positional index numb
 A strongly typed list of elements with keys and values.
 - Example of generic dictionary:
 ```csharp
-   Dictionary<string, string> states = new Dictionary<string, string>();
+   Dictionary<string, string> provincies = new Dictionary<string, string>();
+```
+- With Collection initializers:
+```csharp
+   Dictionary<string, string> provincies = new Dictionary<string, string>()
+   {
+      "UT" : "Utrecht",
+      "AMS" : "Amsterdam"
+   };
 ```
