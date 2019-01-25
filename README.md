@@ -94,3 +94,9 @@ A strongly typed list of elements that is accessed using a positional index numb
    List<string> mylist = new List<string>();
 ```
 
+- Declaring and initializing the list of objects:
+```csharp
+   var vendors = new List<Vendor>();
+   var vendor = new Vendor { Name = "Xyz"};
+   venders.Add(vendor);
+```
