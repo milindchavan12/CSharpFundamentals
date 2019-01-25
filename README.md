@@ -117,7 +117,8 @@ A strongly typed list of elements with keys and values.
 ```
 
 ## Generic Collection Interfaces:
-IEnumerable is base interface for the Generic Collection Interfaces.
+IEnumerable is base interface for the Generic Collection Interfaces. Returning `IEnumerable<T>` promises to return readonly sequence of typed element.
+
 ![img text](https://github.com/milindchavan12/CSharpFundamentals/blob/master/assets/generic-interface.png)
 
 When selecting which interface to use as data-type, see the following chart:
