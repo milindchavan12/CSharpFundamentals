@@ -100,3 +100,10 @@ A strongly typed list of elements that is accessed using a positional index numb
    var vendor = new Vendor { Name = "Xyz"};
    vendors.Add(vendor);
 ```
+
+## Generic Dictionary:
+A strongly typed list of elements with keys and values.
+- Example of generic dictionary:
+```csharp
+   Dictionary<string, string> states = new Dictionary<string, string>();
+```
