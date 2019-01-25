@@ -1,6 +1,5 @@
 /Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Common/bin/Debug/Acme.Common.dll
 /Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Common/bin/Debug/Acme.Common.pdb
-/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Common/obj/Debug/Acme.Common.csprojAssemblyReference.cache
 /Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Common/obj/Debug/Acme.Common.csproj.CoreCompileInputs.cache
 /Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Common/obj/Debug/Acme.Common.dll
 /Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Acme.Common/obj/Debug/Acme.Common.pdb

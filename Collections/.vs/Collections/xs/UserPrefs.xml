@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A22E0D0A-25D7-428F-978C-364C2A4CAE81}|Default">
+  <MonoDevelop.Ide.ItemProperties.Acme.Win PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Acme.Biz/VendorRepository.cs">
+    <Files>
+      <File FileName="Acme.Biz/VendorRepository.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

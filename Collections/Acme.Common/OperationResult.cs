@@ -4,19 +4,19 @@
     /// Provides a success flag and message 
     /// useful as a method return type.
     /// </summary>
-    public class OperationResult
+    public class OperationResult<T>
     {
         public OperationResult()
         {
         }
 
-        public OperationResult(bool success, string message) : this()
+        public OperationResult(T sucess, string message) : this()
         {
-            this.Success = success;
+            this.Ressult = sucess;
             this.Message = message;
         }
 
-        public bool Success { get; set; }
+        public T Ressult { get; set; }
         public string Message { get; set; }
     }
 

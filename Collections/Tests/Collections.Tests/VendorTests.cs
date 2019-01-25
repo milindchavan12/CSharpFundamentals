@@ -6,13 +6,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Acme.Common;
+using NUnit.Framework;
 
 namespace Acme.Biz.Tests
 {
-    [TestClass()]
+    [TestFixture()]
     public class VendorTests
     {
-        [TestMethod()]
+        [Test()]
         public void SendWelcomeEmail_ValidCompany_Success()
         {
             // Arrange
@@ -27,7 +28,7 @@ namespace Acme.Biz.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod()]
+        [Test()]
         public void SendWelcomeEmail_EmptyCompany_Success()
         {
             // Arrange
@@ -42,7 +43,7 @@ namespace Acme.Biz.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod()]
+        [Test()]
         public void SendWelcomeEmail_NullCompany_Success()
         {
             // Arrange
@@ -57,13 +58,13 @@ namespace Acme.Biz.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod()]
+        [Test()]
         public void PlaceOrderTest()
         {
             // Arrange
             var vendor = new Vendor();
             var product = new Product(1, "Saw", "");
-            var expected = new OperationResult(true,
+            var expected = new OperationResult<bool>(true,
                 "Order from Acme, Inc\r\nProduct: Saw\r\nQuantity: 12" +
                                      "\r\nInstructions: standard delivery");
 
@@ -74,7 +75,7 @@ namespace Acme.Biz.Tests
             Assert.AreEqual(expected.Success, actual.Success);
             Assert.AreEqual(expected.Message, actual.Message);
         }
-        [TestMethod()]
+        [Test()]
         public void PlaceOrder_3Parameters()
         {
             // Arrange

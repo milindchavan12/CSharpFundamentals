@@ -1,0 +1,2 @@
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Tests/Collections.Tests/obj/Debug/Collections.Tests.csprojAssemblyReference.cache
+/Users/Milind/Documents/Sources/C#/CSharpFundamentals/Collections/Tests/Collections.Tests/obj/Debug/Collections.Tests.csproj.CoreCompileInputs.cache
