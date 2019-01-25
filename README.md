@@ -119,5 +119,5 @@ A strongly typed list of elements with keys and values.
 ## Generic Collection Interfaces:
 ![img text](https://github.com/milindchavan12/CSharpFundamentals/blob/master/assets/generic-interface.png)
 
-When selecting which interface to use, see the following chart:
+When selecting which interface to use as data-type, see the following chart:
 ![img text](https://github.com/milindchavan12/CSharpFundamentals/blob/master/assets/chart.png)
