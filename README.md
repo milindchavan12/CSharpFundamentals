@@ -87,4 +87,5 @@ Following are the constraint allowed:
 | where **T** : Car     | Be or derive from Car |
 | where **T** : ICar     | Be or implement ICar interface |
 
-
+## Generic List:
+A strongly typed list of elements that is accessed using a positional index number.
