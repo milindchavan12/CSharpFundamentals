@@ -1,5 +1,6 @@
 # C# Fundamentals
-C# is Object Oriented Programming language with 3 pillars in the language constituation:
+C# is Object Oriented Programming language with pillars in the language constituation:
+- Abstraction
 - Encapsulation
 - Inheritance
 - Polymorphism
