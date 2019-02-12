@@ -127,3 +127,6 @@ IEnumerable is base interface for the Generic Collection Interfaces. Returning `
 
 When selecting which interface to use as data-type, see the following chart:
 ![img text](https://github.com/milindchavan12/CSharpFundamentals/blob/master/assets/chart.png)
+
+### Object Relationship
+![img text](https://github.com/milindchavan12/CSharpFundamentals/blob/master/assets/object-relationship.png)
