@@ -129,4 +129,5 @@ When selecting which interface to use as data-type, see the following chart:
 ![img text](https://github.com/milindchavan12/CSharpFundamentals/blob/master/assets/chart.png)
 
 ### Object Relationship
+- **Collabration (uses a)** : Exists a relationship when a object of a class uses instances of one or more class. 
 ![img text](https://github.com/milindchavan12/CSharpFundamentals/blob/master/assets/object-relationship.png)
