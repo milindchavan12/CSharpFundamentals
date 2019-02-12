@@ -130,4 +130,5 @@ When selecting which interface to use as data-type, see the following chart:
 
 ### Object Relationship
 - **Collabration (uses a)** : Exists a relationship when a object of a class uses instances of one or more class. 
+- **Composition (has a)** : relationship exists when a object of a class composes instances of one or more class. 
 ![img text](https://github.com/milindchavan12/CSharpFundamentals/blob/master/assets/object-relationship.png)
