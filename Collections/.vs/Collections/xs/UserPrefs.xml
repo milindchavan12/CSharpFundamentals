@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.Acme.Win PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Acme.Biz/VendorRepository.cs">
     <Files>
-      <File FileName="Acme.Biz/VendorRepository.cs" Line="1" Column="1" />
+      <File FileName="Acme.Biz/VendorRepository.cs" Line="37" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
