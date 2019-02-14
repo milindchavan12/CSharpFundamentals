@@ -2,7 +2,7 @@
 C# is Object Oriented Programming language with pillars in the language constituation:
 - Abstraction
 - Encapsulation
-- Inheritance
+- Inheritance : Allows to build a class that inherits members and method of *base* class
 - Polymorphism
 
 ## Object Oriented Programming (OOP)
