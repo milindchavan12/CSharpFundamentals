@@ -3,7 +3,7 @@ C# is Object Oriented Programming language with pillars in the language constitu
 - Abstraction
 - Encapsulation
 - Inheritance : Allows to build a derived class that inherits members and method of *base* class
-- Polymorphism
+- Polymorphism : Polymorphism refers to a programming language's ability to process objects differently depending on their data type or class.
 
 ## Object Oriented Programming (OOP)
 An approach to designing and building the application that are *Flexible*, *Natural*, *Wel-Crafted*, *testable* by focusing on objects that interacts cleanly with one another.
