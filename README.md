@@ -24,8 +24,8 @@ Abstract classes are the classes that can't be instantiated. Example:
    }
 ```
 
-**Virtual** provides the option for method to overridden, method has it's own implementation but allows the derived clas to override it's implementation.
-**Abstract** provides the option when method must be overidden in derived class without it's default implementation.  
+- **Virtual** provides the option for method to overridden, method has it's own implementation but allows the derived clas to override it's implementation.
+- **Abstract** provides the option when method must be overidden in derived class without it's default implementation.  
 
 
 ## Collections:
