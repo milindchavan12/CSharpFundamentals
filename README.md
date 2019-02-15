@@ -9,7 +9,7 @@ C# is Object Oriented Programming language with pillars in the language constitu
 An approach to designing and building the application that are *Flexible*, *Natural*, *Wel-Crafted*, *testable* by focusing on objects that interacts cleanly with one another.
 
 ### Abstract Classes
-Abstract classes are the classes that can't be instantiated and contain the abstract members. Example:
+Abstract classes are the classes that can't be instantiated. Example:
 ```csharp
    public abstract class Window
    {
@@ -23,6 +23,10 @@ Abstract classes are the classes that can't be instantiated and contain the abst
         public abstract void Open();
    }
 ```
+
+**Virtual** provides the option for method to overridden, method has it's own implementation but allows the derived clas to override it's implementation.
+**Abstract** provides the option when method must be overidden in derived class without it's default implementation.  
+
 
 ## Collections:
 Collection provides in-memory management of group of items.
