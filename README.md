@@ -8,6 +8,9 @@ C# is Object Oriented Programming language with pillars in the language constitu
 ## Object Oriented Programming (OOP)
 An approach to designing and building the application that are *Flexible*, *Natural*, *Wel-Crafted*, *testable* by focusing on objects that interacts cleanly with one another.
 
+## Interfaces
+Interfaces are explained [here](https://github.com/milindchavan12/CSharpFundamentals/tree/master/Interfaces) 
+
 ### Abstract Classes
 Abstract classes are the classes that can't be instantiated. Example:
 ```csharp
