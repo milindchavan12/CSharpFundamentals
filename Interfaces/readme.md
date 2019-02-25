@@ -7,5 +7,6 @@ In fact, Interface is a **Contract** and makes our code flexible.
 Client should not be forced to depend upon the methods they do not use. Interfaces belong to clients, not to hierarchies.
 - Interfaces should only include what the calling code needs.
 
-### Inheritance Interface:
+### Interface Inheritance:
 When a class implements the inherited interface then it must provide the implementation of all the members that are defined within the interface inheritance chain.
+![img text]()
