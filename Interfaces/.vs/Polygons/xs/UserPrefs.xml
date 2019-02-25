@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{B568FC4E-5BE7-4ADF-B968-9AC29B69605C}|Default">
   <MonoDevelop.Ide.ItemProperties.Polygons PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Polygons.Library/Octogon.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Polygons/Program.cs">
     <Files>
-      <File FileName="Polygons.Library/RegularPolygon.cs" Line="23" Column="10" />
+      <File FileName="Polygons.Library/RegularPolygon.cs" Line="17" Column="47" />
       <File FileName="Polygons.Library/Square.cs" Line="10" Column="9" />
-      <File FileName="Polygons/Program.cs" Line="25" Column="2" />
+      <File FileName="Polygons/Program.cs" Line="20" Column="49" />
       <File FileName="Polygons.Library/AbstractRegularPolygon.cs" Line="14" Column="9" />
-      <File FileName="Polygons.Library/Triangle.cs" Line="14" Column="10" />
+      <File FileName="Polygons.Library/Triangle.cs" Line="13" Column="63" />
       <File FileName="Polygons.Library/IRegularPolygon.cs" Line="13" Column="1" />
-      <File FileName="Polygons.Library/Octogon.cs" Line="4" Column="33" />
+      <File FileName="Polygons.Library/Octogon.cs" Line="26" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
